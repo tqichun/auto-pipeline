@@ -3,7 +3,7 @@ hyperopt==0.1.2
 joblib==0.13.2
 pandas==1.0.1
 mlxtend==0.17.0
-numpy==1.18.1
+numpy==1.22.0
 category_encoders==2.0.0
 lightgbm==2.2.3
 hdfs==2.5.8
